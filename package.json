@@ -1,0 +1,13 @@
+{
+  "name": "com.batch8.main",
+  "version": "1.0.0",
+  "description": "BelajarFundamental",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "draw": "node Draw.js",
+    "test": "echo \"Error: ora ngerti mas\" && exit 1"
+  },
+  "author": "Briliando",
+  "license": "ISC"
+}
